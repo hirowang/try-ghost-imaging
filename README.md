@@ -3,7 +3,7 @@
 ## 1. Preparation
 
 ### Environment Preparation
-Most of the required packages are in https://github.com/NATSpeech/NATSpeech/blob/main/requirements.txt
+Most of the required packages are in requirements.txt
 
 You can prepare environments with the requirements.txt file in the repository directory.
 ```sh
