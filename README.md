@@ -1,6 +1,12 @@
-# A Ghost Imaging Demonstration System for Popular Science Purposes with Computer and Webcam
+<h1 align="center">
+    A Ghost Imaging Demonstration System with Computer and Webcam
+</h1>
 
-<img src="/images/result.jpg" width="100" align="center">
+<p align="center">
+    <img src="/images/result.jpg" width="100" align="center">
+    <img src="/images/demonstration.png" width="100" align="center">
+    <img src="/images/screenshot.png" width="100" align="center">
+</p>
 
 ## 1. Preparation
 
