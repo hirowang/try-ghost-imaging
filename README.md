@@ -1,4 +1,6 @@
-# A Ghost Imaging Demonstration for Popular Science Purposes
+# A Ghost Imaging Demonstration System for Popular Science Purposes with Computer and Webcam
+
+<img src="/images/result.jpg" width="100" align="center">
 
 ## 1. Preparation
 
@@ -13,7 +15,7 @@ pip install requirements.txt
 
 1. A computer to play speckle patterns and calculate results.
 
-2. An usb [Webcam](https://en.wikipedia.org/wiki/Webcam) to simple.
+2. A USB [Webcam](https://en.wikipedia.org/wiki/Webcam) to simple.
 
 
 ## 2. Running the system
