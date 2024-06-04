@@ -1,7 +1,7 @@
 <h1 align="center">
-    A Ghost Imaging Demonstration System with Computer and Webcam
+    A Ghost Imaging Demonstration System
 </h1>
-
+<p align="center">A Ghost Imaging Demonstration System for popular science purposes with Computer and Webcam</p>
 <p align="center">
     <img src="/images/result.jpg" width="100" align="center">
     <img src="/images/demonstration.png" width="100" align="center">
