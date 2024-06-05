@@ -8,6 +8,10 @@
     <img src="/images/result.jpg" height="200">
 </p>
 <p align="center">The equipment placement, system screenshots, and imaging results of the demonstration process.</p>
+
+
+[Quantum Imaging (QI)](https://en.wikipedia.org/wiki/Quantum_imaging), also known as Ghost Imaging (GI), Correlated Imaging (CI), is an imaging method that utilizes second-order or higher-order correlations of light fields to obtain object information. Due to its imaging characteristics, quantum imaging technology has been applied in fields such as lithography, LiDAR, biological tissue imaging, and underwater imaging. The process of quantum imaging requires the use of professional instruments, which is not conducive to popular science popularization activities. This project is a science popularization system that only uses a personal computer and USB camera to demonstrate the quantum imaging process. The following are the steps to run this project.
+
 ## 1. Preparation
 
 ### Environment Preparation
