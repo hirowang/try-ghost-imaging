@@ -1,13 +1,13 @@
 <h1 align="center">
     A Ghost Imaging Demonstration System
 </h1>
-<p align="center">A Ghost Imaging Demonstration System for popular science purposes with Computer and Webcam</p>
+<p align="center">A Ghost Imaging Demonstration System for popular science purposes with Computer and Webcam. </p>
 <p align="center">
-    <img src="/images/result.jpg" width="100" align="center">
-    <img src="/images/demonstration.png" width="100" align="center">
-    <img src="/images/screenshot.png" width="100" align="center">
+    <img src="/images/demonstration.png" height="200">
+    <img src="/images/screenshot.png" height="200">
+    <img src="/images/result.jpg" height="200">
 </p>
-
+<p align="center">The equipment placement, system screenshots, and imaging results of the demonstration process.</p>
 ## 1. Preparation
 
 ### Environment Preparation
